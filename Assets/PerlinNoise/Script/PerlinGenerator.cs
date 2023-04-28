@@ -110,7 +110,7 @@ public class PerlinGenerator : MonoBehaviour
             noise_grid.Add(new List<int>());
             tile_grid.Add(new List<GameObject>());
 
-            for(int y=0;y<height;y++)
+            for(int y= 0; y<height;y++)
             {
                 int tile_id=GetIdByPerlin(x,y);
                 noise_grid[x].Add(tile_id);
