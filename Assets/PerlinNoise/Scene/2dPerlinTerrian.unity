@@ -342,11 +342,11 @@ MonoBehaviour:
   prefab_earth: {fileID: 5979889811960935545, guid: fa74c812e77f47044becd078b91aead6, type: 3}
   prefab_water: {fileID: 6994459892960482059, guid: ee8058b4aa03a774791a63ce9d2b9c7f, type: 3}
   prefab_rock: {fileID: 7558474575102589098, guid: e2c4b885e01a37e49bb5cad8d6b6a1af, type: 3}
-  width: 20
-  height: 20
+  width: 50
+  height: 50
   magnification: 6
-  x_offset: -10
-  y_offset: -10
+  x_offset: -20
+  y_offset: -30
 --- !u!4 &1761348862
 Transform:
   m_ObjectHideFlags: 0
